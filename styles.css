@@ -1,0 +1,26 @@
+html {
+    background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR_IITjcmPwEQi25z92m4-ZVARPTSDgF6aEliR_Q_GnIf5Ck4qtfo6g0k7fowgSnv56ZXEV8E6EZTP-0xg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255, 50%);
+}
+h4{
+    color: white;
+    text-align: center;
+}
+table{
+    background-color: black;
+    color: white;
+}
+table th, td{
+    border: 1px solid rgb(255, 255, 255);
+}
